@@ -1,4 +1,4 @@
-# ESP8266 SERVO MQTT Node-Red - MQTT (Broker Mosquitto)
+# ESP8266 Servo MQTT Node-Red - MQTT (Broker Mosquitto)
 esp8266 controller Servo via MQTT  Node-Red IoT 
 
 ![Portada](https://github.com/JhonControl/ESP8266_SERVO_MQTT_Node-Red/blob/master/extras/PDAControl_MQTT_Servo.jpg)
